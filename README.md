@@ -1,0 +1,2 @@
+# ProjectTrinity
+Simple Stock Screener.
